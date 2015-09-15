@@ -44,12 +44,7 @@ Each of the examples in [whatIsThis.js](whatIsThis.js) will run the `whatIsThis`
 You can open index.html in your browser and view your console to get started.
 
 
-<!--
 ## Notes
 
-Notes go here...
+[https://www.youtube.com/watch?v=Af1OxkFOK18](https://www.youtube.com/watch?v=Af1OxkFOK18)
 
-## Additional Resources
-
-* Read []()
--->
